@@ -11,7 +11,7 @@ import Appointment from './pages/Appointment'
 import Navbar from './components/Navbar'
 import Consultancy from './pages/Consultancy'
 import Blogs from './pages/Blogs'
-import Footer from './components/footer'
+import Footer from './components/Footer'
 
 
 
